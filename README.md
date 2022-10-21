@@ -1,3 +1,3 @@
 # workshop-springboot3-jpa
 
-# Project under development
+# Project status: Under development
